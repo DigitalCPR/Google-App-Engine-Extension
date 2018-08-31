@@ -6,4 +6,4 @@ Creating an API extension for Google App Engine for customized needs
 
 ### Nned to do
 
-Upgrading Protocols ans integrating automatic tests for dsployment
+Upgrading Protocols and integrating automatic tests for dsployment
